@@ -7,7 +7,7 @@ import keyboard
 import threading
 import pyautogui
 
-# 定义RGB颜色范围
+# 定义方块颜色范围与跳跃延迟
 color_ranges = {
     '长': ([94, 0, 204], [94, 0, 204], 0.67),
     '中长': ([142, 66, 252], [142, 66, 252], 0.57),
